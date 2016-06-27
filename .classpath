@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/xmlunit-1.6/lib/xmlunit-1.6.jar" sourcepath="lib/xmlunit-1.6-src.zip"/>
+	<classpathentry kind="lib" path="lib/ajt-2.11/ajt-2.11.jar" sourcepath="lib/ajt-2.11/ajt-2.11-src.zip"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/commons-math-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/commons-validator-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/crawljax-core-3.7-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/crawloverview-plugin-3.7-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/guice-assistedinject-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/jackson-annotations-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/jackson-core-2.4.4.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/jackson-databind-2.4.4.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/jackson-datatype-guava-2.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/jcl-over-slf4j-1.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/jgrapht-0.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/jsr305-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/jul-to-slf4j-1.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/metrics-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/nekohtml-1.9.21.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/netty-3.5.2.Final.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/selenium-api-2.45.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/selenium-chrome-driver-2.44.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/selenium-firefox-driver-2.44.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/selenium-ie-driver-2.44.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/selenium-java-2.44.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/selenium-remote-driver-2.45.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/selenium-safari-driver-2.44.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/selenium-support-2.44.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/webbit-0.4.14.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/xercesImpl-2.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawljax-cli-3.7/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="lib/htmlcleaner-2.9.jar"/>
+	<classpathentry kind="lib" path="lib/javaparser-1.0.8.jar"/>
+	<classpathentry kind="lib" path="lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.8.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/javaml-0.1.9-dev/javaml-0.1.9-dev.jar" sourcepath="lib/javaml-0.1.9-dev/javaml-0.1.9-dev-src.zip"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.5/jdom-2.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/weka.jar" sourcepath="lib/weka-src.jar"/>
+	<classpathentry kind="lib" path="lib/commons-configuration-1.10/commons-configuration-1.10.jar" sourcepath="lib/commons-configuration-1.10/commons-configuration-1.10-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.5/lib/jaxen-1.1.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+	<referencedentry kind="lib" path="lib/crawljax-cli-3.5.1/lib/crawljax-core-3.5.1.jar" sourcepath="/Users/tsigalko18/KeplerWorkspace/AutomaticPageObject/lib/crawljax-crawljax-3.5.1"/>
+</classpath>
